@@ -25,8 +25,9 @@
 * 기본 주파수는 w=2ㅠ/T이다.
 * 기본 주기 신호 x(t) = cos w*t
 * 주기 복소지수 x(t) = e ^jwt
-* 기본 주기는 T = 2ㅠ/w
+* 기본 주기는 T = 2ㅠ/w  
 ![KakaoTalk_20220527_154905910](https://user-images.githubusercontent.com/71515744/170646499-f4879641-2c8a-4c96-a84a-116a3bb5282c.jpg)
+  
 * 위와 같은 형태로 복소지수의 선형결합을 얻을 수 있다.
 
 
